@@ -43,4 +43,13 @@ Unit tests were carried out on this project with Xunit, they were carried out in
 
 ### Return Employee by id
 
+![employeeById](https://user-images.githubusercontent.com/48841736/204196928-e66a617d-148a-493d-8270-c74665f2b395.png)
+
+### Return Employees list
+
+![employeesList](https://user-images.githubusercontent.com/48841736/204196955-3eb6b3d3-f614-4186-bb7f-0daaaed86243.png)
+
+### Return general error
+
+![error](https://user-images.githubusercontent.com/48841736/204196983-907410ad-818e-4a1f-a602-df78652d6717.png)
 

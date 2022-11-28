@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5ijUKB7BU+FXKol6k3m5Y7rHGTx3lU/Vrz4YeLY1WG29O9wsVGYfxx8yjwbFD3QZTqZ3ZFsD23StqKpIVDdtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\OneDrive\\Documents\\Code\\Employee.MVC\\Employee.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EmployeeModel>
+@{
+    ViewData["Title"] = "Employees";
+
+}
+
+
+<h1>Employees list</h1>
+
+<div style="background-color: #E4F2FF;">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    Salary
+                </th>
+                <th>
+                    Anual salary
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td width="10%">
+                        @item.Id
+                    </td>
+                    <td width="30%">
+                        @item.Employee_name
+                    </td>
+                    <td width="10%">
+                        @item.Employee_age
+                    </td>
+                    <td width="10%">
+                        @item.Employee_salary
+                    </td>
+                    <td width="10%">
+                        @item.Employee_anual_salary
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

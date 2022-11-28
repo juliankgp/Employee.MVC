@@ -22,6 +22,7 @@ The application has a main screen which allows entering the ID of an employee, o
 The application does not require any installation to work, all you have to do is download the repository, and run the project solution (Employee.MVC.sln)
 
 ![run_application](https://user-images.githubusercontent.com/48841736/204197431-c1c28129-8350-4f1b-9ecc-a47187f2cb97.png)
+![run_application2](https://user-images.githubusercontent.com/48841736/204197550-726a1e9e-8e9c-4e85-81cd-fda9ef98e44a.png)
 
 
 
@@ -30,6 +31,7 @@ The application does not require any installation to work, all you have to do is
 Unit tests were carried out on this project with Xunit, they were carried out in the business layer and in the shared kernel services.
 
 ![unitTestResult](https://user-images.githubusercontent.com/48841736/204197266-9ba4d9a4-be0f-4f9e-9457-ff2a3f7075ff.png)
+
 
 
 

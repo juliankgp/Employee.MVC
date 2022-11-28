@@ -21,6 +21,8 @@ The application has a main screen which allows entering the ID of an employee, o
 ## Instalation
 The application does not require any installation to work, all you have to do is download the repository, and run the project solution (Employee.MVC.sln)
 
+![run_application](https://user-images.githubusercontent.com/48841736/204197431-c1c28129-8350-4f1b-9ecc-a47187f2cb97.png)
+
 
 
 ## Unit Tests 

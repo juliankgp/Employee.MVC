@@ -27,6 +27,10 @@ The application does not require any installation to work, all you have to do is
 
 Unit tests were carried out on this project with Xunit, they were carried out in the business layer and in the shared kernel services.
 
+![unitTestResult](https://user-images.githubusercontent.com/48841736/204197266-9ba4d9a4-be0f-4f9e-9457-ff2a3f7075ff.png)
+
+
+
 ## Methods
 
 | Name| Business Layer | Methods |
